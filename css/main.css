@@ -16,7 +16,15 @@ a[href="#content"]{
 }
 
 nav{
-    background-color: #FFD6E0;
+    display: inline-block;
+    width: 80%;
+    /* background-color: #FFD6E0; */
+}
+header img{
+    width: 5%;
+    display: inline;
+    position: relative;
+    top: 10px;
 }
 
 li{
