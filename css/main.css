@@ -1,7 +1,6 @@
 .neighborhood{
     display: grid;
     grid-template-columns: 40% 40%;
-    -webkit-columns: 40% 40%;
     justify-content: center;
     align-items: center;
 }
