@@ -46,6 +46,11 @@ header img{
     top: 10px;
 }
 
+/* li{
+    display: inline-block;
+    width: 30%;
+} */
+
 ul{
     display: flex;
     justify-content: space-around;
